@@ -207,6 +207,11 @@ defaults:
       type: posts
     values:
       layout: article
+      title: Page - Article Header Image
+      article_header:
+      type: cover
+      image:
+      src: /docs/assets/images/cover2.jpg
       sharing: true
       license: true
       aside:
